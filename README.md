@@ -12,7 +12,7 @@ Founder of [iliassami.com](https://iliassami.com) · Creator of [Scrawly](https:
 
 ## 🚀 About Me
 
-I am the silent **AEO (Answer Engine Optimization) & GEO (Generative Engine Optimization)** infrastructure partner for digital marketing agencies across North America, Europe, and the Middle East. Operating under 100% strict NDA, I engineer entity architecture, knowledge graph networks, and AI-crawler accessibility so that both traditional search engines and autonomous AI systems (ChatGPT, Claude, Perplexity, Google AI Overviews) cite brands unambiguously.
+I am the silent **AEO (Answer Engine Optimization) & GEO (Generative Engine Optimization)** infrastructure partner for digital marketing agencies across North America, Europe, and the Middle East. Operating under 100% strict NDA, I engineer entity architecture, knowledge graph networks, and AI-crawler accessibility so that both traditional search engines and autonomous AI systems (ChatGPT, Claude, Perplexity, Google AI Overviews) cite brands unambiguously. Currently working as the GEO and AI Search Visibility Specialist at **Outcraft**.
 
 - 🌐 **Primary Hub:** [https://iliassami.com](https://iliassami.com)
 - 📍 **Location:** Dhaka, Bangladesh (Global Remote Operations)
